@@ -16,6 +16,3 @@ This repository demonstrates the use of Threads in Java using separate files and
 
 4. **MainThreadDemo.java**  
    Main class which starts all three threads.
-
-## GitHub Repository
-👉 [Java Threads GitHub Repository](https://github.com/your-username/java-threads-demo)
