@@ -9,7 +9,8 @@ public class MainThreadDemo {
         // Creating threads
         PrintNumbersThread t1 = new PrintNumbersThread();
         PrintAlphabetsThread t2 = new PrintAlphabetsThread();
-        PrintEvenNumbersThread t3 = new PrintEvenNumbersThread();
+        EvenNumbersThread t3 = new EvenNumbersThread();
+
 
         // Starting all threads
         t1.start();
